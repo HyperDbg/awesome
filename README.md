@@ -4,6 +4,8 @@ A list of awesome resources about HyperDbg.
 
 ## Documentation
 
+### User-mode Debugging Examples
+
 ### Kernel-mode Debugging Examples
 - [Connecting To HyperDbg](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/beginning/connecting-to-hyperdbg)
 - [Configuring Symbol Server/Path](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/beginning/configuring-symbol-server-path)
