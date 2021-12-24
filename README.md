@@ -23,7 +23,7 @@ A list of awesome resources about HyperDbg.
 - [Running HyperDbg Script](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/scripts/running-hyperdbg-script)
 
 ### Script-engine Examples
-- [view system state (registers, memory, variables)](https://docs.hyperdbg.org/commands/scripting-language/examples/view-system-sate)
+- [view system state (registers, memory, variables)](https://docs.hyperdbg.org/commands/scripting-language/examples/view-system-state)
 - [change system state (registers, memory, variables)](https://docs.hyperdbg.org/commands/scripting-language/examples/change-system-state-registers-memory-variables)
 - [trace function calls](https://docs.hyperdbg.org/commands/scripting-language/examples/trace-function-calls)
 - [conditional breakpoints and events](https://docs.hyperdbg.org/commands/scripting-language/examples/conditional-breakpoints-and-events)
