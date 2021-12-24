@@ -4,24 +4,24 @@ A list of awesome resources about HyperDbg.
 
 ## Documentation
 
-### Examples
-- [Connecting To HyperDbg](https://docs.hyperdbg.org/using-hyperdbg/examples/beginning/connecting-to-hyperdbg)
-- [Configuring Symbol Server/Path](https://docs.hyperdbg.org/using-hyperdbg/examples/beginning/configuring-symbol-server-path)
-- [Setting Breakpoints & Stepping Instructions](https://docs.hyperdbg.org/using-hyperdbg/examples/basics/setting-breakpoints-and-stepping-instructions)
-- [Displaying & Editing & Searching Memory](https://docs.hyperdbg.org/using-hyperdbg/examples/basics/displaying-and-editing-and-searching-memory)
-- [Showing & Modifying Registers and Flags](https://docs.hyperdbg.org/using-hyperdbg/examples/basics/showing-and-modifying-registers-and-flags)
-- [Switching to a Specific Process or Thread](https://docs.hyperdbg.org/using-hyperdbg/examples/basics/switching-to-a-specific-process-or-thread)
-- [Managing Events](https://docs.hyperdbg.org/using-hyperdbg/examples/events/managing-events)
-- [Hooking Any Function](https://docs.hyperdbg.org/using-hyperdbg/examples/events/hooking-any-function)
-- [Intercepting All SYSCALLs](https://docs.hyperdbg.org/using-hyperdbg/examples/events/intercepting-all-syscalls)
-- [Monitoring Accesses To Structures](https://docs.hyperdbg.org/using-hyperdbg/examples/events/monitoring-accesses-to-structures)
-- [Triggering Special Instructions](https://docs.hyperdbg.org/using-hyperdbg/examples/events/triggering-special-instructions)
-- [Identifying System Behavior](https://docs.hyperdbg.org/using-hyperdbg/examples/events/identifying-system-behavior)
-- [Defeating Anti-Debug & Anti-Hypervisor Methods](https://docs.hyperdbg.org/using-hyperdbg/examples/misc/defeating-anti-debug-and-anti-hypervisor-methods)
-- [Running HyperDbg Script](https://docs.hyperdbg.org/using-hyperdbg/examples/scripts/running-hyperdbg-script)
+### Kernel-mode Debugging Examples
+- [Connecting To HyperDbg](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/beginning/connecting-to-hyperdbg)
+- [Configuring Symbol Server/Path](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/beginning/configuring-symbol-server-path)
+- [Setting Breakpoints & Stepping Instructions](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/basics/setting-breakpoints-and-stepping-instructions)
+- [Displaying & Editing & Searching Memory](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/basics/displaying-and-editing-and-searching-memory)
+- [Showing & Modifying Registers and Flags](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/basics/showing-and-modifying-registers-and-flags)
+- [Switching to a Specific Process or Thread](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/basics/switching-to-a-specific-process-or-thread)
+- [Managing Events](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/events/managing-events)
+- [Hooking Any Function](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/events/hooking-any-function)
+- [Intercepting All SYSCALLs](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/events/intercepting-all-syscalls)
+- [Monitoring Accesses To Structures](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/events/monitoring-accesses-to-structures)
+- [Triggering Special Instructions](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/events/triggering-special-instructions)
+- [Identifying System Behavior](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/events/identifying-system-behavior)
+- [Defeating Anti-Debug & Anti-Hypervisor Methods](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/misc/defeating-anti-debug-and-anti-hypervisor-methods)
+- [Running HyperDbg Script](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/scripts/running-hyperdbg-script)
 
 ### Script-engine Examples
-- [view system state (registers, memory, variables)](https://docs.hyperdbg.org/commands/scripting-language/examples/view-system-sthttps://docs.hyperdbg.org/using-hyperdbg/examples/scripts/running-hyperdbg-scriptate)
+- [view system state (registers, memory, variables)](https://docs.hyperdbg.org/commands/scripting-language/examples/view-system-sate)
 - [change system state (registers, memory, variables)](https://docs.hyperdbg.org/commands/scripting-language/examples/change-system-state-registers-memory-variables)
 - [trace function calls](https://docs.hyperdbg.org/commands/scripting-language/examples/trace-function-calls)
 - [conditional breakpoints and events](https://docs.hyperdbg.org/commands/scripting-language/examples/conditional-breakpoints-and-events)
