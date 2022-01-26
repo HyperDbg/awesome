@@ -5,7 +5,6 @@ A list of awesome resources about HyperDbg.
 ## Documentation
 
 ### User-mode Debugging Examples
-- [Switching to a Specific Process or Thread](https://docs.hyperdbg.org/using-hyperdbg/user-mode-debugging/examples/basics/switching-to-a-specific-process-or-thread)
 
 ### Kernel-mode Debugging Examples
 - [Connecting To HyperDbg](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/beginning/connecting-to-hyperdbg)
@@ -13,6 +12,7 @@ A list of awesome resources about HyperDbg.
 - [Setting Breakpoints & Stepping Instructions](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/basics/setting-breakpoints-and-stepping-instructions)
 - [Displaying & Editing & Searching Memory](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/basics/displaying-and-editing-and-searching-memory)
 - [Showing & Modifying Registers and Flags](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/basics/showing-and-modifying-registers-and-flags)
+- [Switching to a Specific Process or Thread](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/basics/switching-to-a-specific-process-or-thread)
 - [Managing Events](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/events/managing-events)
 - [Hooking Any Function](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/events/hooking-any-function)
 - [Intercepting All SYSCALLs](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/events/intercepting-all-syscalls)
