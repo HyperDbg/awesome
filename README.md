@@ -20,7 +20,6 @@ A list of awesome resources about HyperDbg.
 - [Triggering Special Instructions](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/events/triggering-special-instructions)
 - [Identifying System Behavior](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/events/identifying-system-behavior)
 - [Defeating Anti-Debug & Anti-Hypervisor Methods](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/misc/defeating-anti-debug-and-anti-hypervisor-methods)
-- [Running HyperDbg Script](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/scripts/running-hyperdbg-script)
 
 ### Script-engine Examples
 - [view system state (registers, memory, variables)](https://docs.hyperdbg.org/commands/scripting-language/examples/view-system-state)
