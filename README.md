@@ -5,6 +5,7 @@ A list of awesome resources about HyperDbg.
 ## Documentation
 
 ### User-mode Debugging Examples
+- [Getting Results of a System-call](https://docs.hyperdbg.org/using-hyperdbg/user-mode-debugging/examples/events/getting-results-of-a-system-call)
 
 ### Kernel-mode Debugging Examples
 - [Connecting To HyperDbg](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/beginning/connecting-to-hyperdbg)
