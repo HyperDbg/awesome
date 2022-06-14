@@ -2,6 +2,14 @@
 
 A list of awesome resources about HyperDbg.
 
+## Articles
+
+### Papers
+- [HyperDbg: Reinventing Hardware-Assisted Debugging](https://www.preprints.org/manuscript/202205.0416/v1/download)
+
+### Blog Posts
+- [HyperDbg’s One Thousand and One Nights](https://rayanfam.com/topics/hyperdbg-one-thousand-and-one-nights)
+
 ## Documentation
 
 ### User-mode Debugging Examples
