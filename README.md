@@ -6,6 +6,8 @@ A list of awesome resources about HyperDbg.
 
 ### Papers
 - [HyperDbg: Reinventing Hardware-Assisted Debugging](https://www.preprints.org/manuscript/202205.0416/v1/download)
+- [Kernel Debugger Design In HyperDbg](https://research.hyperdbg.org/debugger/kernel-debugger-design.html)
+- [VM-exit Transparency In HyperDbg](https://research.hyperdbg.org/debugger/transparency.html)
 
 ### Blog Posts
 - [HyperDbg’s One Thousand and One Nights](https://rayanfam.com/topics/hyperdbg-one-thousand-and-one-nights)
