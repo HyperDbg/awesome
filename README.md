@@ -12,6 +12,9 @@ A list of awesome resources about HyperDbg.
 ### Blog Posts
 - [HyperDbg’s One Thousand and One Nights](https://rayanfam.com/topics/hyperdbg-one-thousand-and-one-nights)
 
+### Miscellaneous
+- [GDB to LLDB to Windbg to HyperDbg Command Map](https://hyperdbg.github.io/commands-map)
+
 ## Documentation
 
 ### User-mode Debugging Examples
