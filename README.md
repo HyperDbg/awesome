@@ -17,6 +17,13 @@ A list of awesome resources about HyperDbg.
 
 ## Documentation
 
+### Attaching/Building HyperDbg 
+- [Build & Install](https://docs.hyperdbg.org/getting-started/build-and-install)
+- [Attach to a remote machine](https://docs.hyperdbg.org/getting-started/attach-to-hyperdbg/debug)
+- [Attach to local machine](https://docs.hyperdbg.org/getting-started/attach-to-hyperdbg/local-debugging)
+- [Start a new process](https://docs.hyperdbg.org/getting-started/attach-to-hyperdbg/start-process)
+- [Attach to a running process](https://docs.hyperdbg.org/getting-started/attach-to-hyperdbg/attach-process)
+
 ### User-mode Debugging Examples
 - [Getting Results of a System-call](https://docs.hyperdbg.org/using-hyperdbg/user-mode-debugging/examples/events/getting-results-of-a-system-call)
 
