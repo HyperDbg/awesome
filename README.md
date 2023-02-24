@@ -52,5 +52,9 @@ A list of awesome resources about HyperDbg.
 - [access to a shared variable from different cores](https://docs.hyperdbg.org/commands/scripting-language/examples/access-to-a-shared-variable-from-different-cores)
 - [count occurrences of events](https://docs.hyperdbg.org/commands/scripting-language/examples/count-occurrences-of-events)
 
-## Presentations
+## Videos
+- [CPS4150 Computer Architecture Final Seminar Presentation HyperDbg](https://www.youtube.com/watch?v=WHkXdv3tQvA)
+
+
+## Academic Presentations
 - [Slides for 29th ACM Conference on Computer and Communications Security (CCS'22)](https://github.com/HyperDbg/slides/tree/main/2022/CCS2022)
