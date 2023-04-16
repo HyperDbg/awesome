@@ -5,9 +5,10 @@ A list of awesome resources about HyperDbg.
 ## Articles
 
 ### Papers
-- [HyperDbg: Reinventing Hardware-Assisted Debugging](https://arxiv.org/pdf/2207.05676) [[arXiv](https://arxiv.org/abs/2207.05676)] [[preprints](https://www.preprints.org/manuscript/202205.0416/v1)]
+- [HyperDbg: Reinventing Hardware-Assisted Debugging (CCS'22)](https://dl.acm.org/doi/abs/10.1145/3548606.3560649) [[arXiv](https://arxiv.org/abs/2207.05676)]
 - [Kernel Debugger Design In HyperDbg](https://research.hyperdbg.org/debugger/kernel-debugger-design.html)
 - [VM-exit Transparency In HyperDbg](https://research.hyperdbg.org/debugger/transparency.html)
+- [Chasing Bugs with/in Hypervisors](https://research.hyperdbg.org/debugger/chasing-bugs.html)
 
 ### Blog Posts
 - [HyperDbg’s One Thousand and One Nights](https://rayanfam.com/topics/hyperdbg-one-thousand-and-one-nights)
@@ -56,5 +57,6 @@ A list of awesome resources about HyperDbg.
 - [CPS4150 Computer Architecture Final Seminar Presentation HyperDbg](https://www.youtube.com/watch?v=WHkXdv3tQvA)
 
 
-## Academic Presentations
-- [Slides for 29th ACM Conference on Computer and Communications Security (CCS'22)](https://github.com/HyperDbg/slides/tree/main/2022/CCS2022)
+## Presentations
+- [Slides for 29th ACM Conference on Computer and Communications Security (CCS'22) - HyperDbg](https://github.com/HyperDbg/slides/tree/main/2022/CCS2022)
+- [Slides for Zer0Con 2023 - Chasing Bugs with/in Hypervisors](https://github.com/HyperDbg/slides/tree/main/2023/ZeroCon2023)
