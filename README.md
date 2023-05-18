@@ -26,10 +26,10 @@ A list of awesome resources about HyperDbg.
 - [Attach to a running process](https://docs.hyperdbg.org/getting-started/attach-to-hyperdbg/attach-process)
 - [Guide for using the Software Development Kit (SDK)](https://docs.hyperdbg.org/using-hyperdbg/sdk)
 
-### User-mode Debugging Examples
+### User-mode Debugging
 - [Getting Results of a System-call](https://docs.hyperdbg.org/using-hyperdbg/user-mode-debugging/examples/events/getting-results-of-a-system-call)
 
-### Kernel-mode Debugging Examples
+### Kernel-mode Debugging
 - [Connecting To HyperDbg](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/beginning/connecting-to-hyperdbg)
 - [Configuring Symbol Server/Path](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/beginning/configuring-symbol-server-path)
 - [Setting Breakpoints & Stepping Instructions](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/basics/setting-breakpoints-and-stepping-instructions)
@@ -45,7 +45,7 @@ A list of awesome resources about HyperDbg.
 - [Identifying System Behavior](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/events/identifying-system-behavior)
 - [Defeating Anti-Debug & Anti-Hypervisor Methods](https://docs.hyperdbg.org/using-hyperdbg/kernel-mode-debugging/examples/misc/defeating-anti-debug-and-anti-hypervisor-methods)
 
-### Script-engine Examples
+### Script-engine
 - [view system state (registers, memory, variables)](https://docs.hyperdbg.org/commands/scripting-language/examples/view-system-state)
 - [change system state (registers, memory, variables)](https://docs.hyperdbg.org/commands/scripting-language/examples/change-system-state-registers-memory-variables)
 - [trace function calls](https://docs.hyperdbg.org/commands/scripting-language/examples/trace-function-calls)
@@ -53,6 +53,8 @@ A list of awesome resources about HyperDbg.
 - [patch the normal sequence of execution](https://docs.hyperdbg.org/commands/scripting-language/examples/patch-the-normal-sequence-of-execution)
 - [access to a shared variable from different cores](https://docs.hyperdbg.org/commands/scripting-language/examples/access-to-a-shared-variable-from-different-cores)
 - [count occurrences of events](https://docs.hyperdbg.org/commands/scripting-language/examples/count-occurrences-of-events)
+- [A collection of useful HyperDbg scripts](https://github.com/HyperDbg/scripts)
+
 
 ## Videos
 - [CPS4150 Computer Architecture Final Seminar Presentation HyperDbg](https://www.youtube.com/watch?v=WHkXdv3tQvA)
