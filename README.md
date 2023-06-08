@@ -55,6 +55,8 @@ A list of awesome resources about HyperDbg.
 - [count occurrences of events](https://docs.hyperdbg.org/commands/scripting-language/examples/count-occurrences-of-events)
 - [A collection of useful HyperDbg scripts](https://github.com/HyperDbg/scripts)
 
+### Components
+- [Event short-circuiting](https://docs.hyperdbg.org/tips-and-tricks/misc/event-short-circuiting)
 
 ## Videos
 - [CPS4150 Computer Architecture Final Seminar Presentation HyperDbg](https://www.youtube.com/watch?v=WHkXdv3tQvA)
