@@ -65,3 +65,11 @@ A list of awesome resources about HyperDbg.
 ## Presentations
 - [Slides for 29th ACM Conference on Computer and Communications Security (CCS'22) - HyperDbg](https://github.com/HyperDbg/slides/tree/main/2022/CCS2022)
 - [Slides for Zer0Con 2023 - Chasing Bugs with/in Hypervisors](https://github.com/HyperDbg/slides/tree/main/2023/Zer0Con2023)
+
+# Non-English resources
+
+A list of awesome resources about HyperDbg (non-English languages).
+
+## Spanish
+- [Hyperdbg instalacion y primeros pasos](https://www.youtube.com/watch?v=BBp5kGL1qoI&ab_channel=CursoReversing)
+
