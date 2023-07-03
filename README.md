@@ -56,6 +56,7 @@ A list of awesome resources about HyperDbg.
 - [A collection of useful HyperDbg scripts](https://github.com/HyperDbg/scripts)
 
 ### Components
+- [Event forwarding](https://docs.hyperdbg.org/tips-and-tricks/misc/event-forwarding)
 - [Event short-circuiting](https://docs.hyperdbg.org/tips-and-tricks/misc/event-short-circuiting)
 
 ## Videos
