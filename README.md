@@ -72,6 +72,8 @@ A list of awesome resources about HyperDbg.
 
 A list of awesome resources about HyperDbg (non-English languages).
 
-## Spanish
-- [Hyperdbg instalacion y primeros pasos](https://www.youtube.com/watch?v=BBp5kGL1qoI&ab_channel=CursoReversing)
+## Persian
+- [A Practical Introduction to HyperDbg Debugger (وبینار مقدمه ای بر دیباگر هایپردیباگ)](https://www.youtube.com/watch?v=EK5WwWb5WNA)
 
+## Spanish
+- [Hyperdbg instalacion y primeros pasos](https://www.youtube.com/watch?v=BBp5kGL1qoI)
