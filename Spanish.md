@@ -2,4 +2,4 @@
 
 Una lista de increíbles recursos sobre HyperDbg.
 - [Hyperdbg instalacion y primeros pasos](https://www.youtube.com/watch?v=BBp5kGL1qoI)
-- [HYPERDBG PRIMEROS PASOS Y NUEVOS FEATURES](https://www.youtube.com/watch?v=rmkEW5IVDyg)
+- [Hyperdbg Instalacion en dos VM y nuevos features](https://www.youtube.com/watch?v=rmkEW5IVDyg)
