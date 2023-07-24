@@ -77,3 +77,4 @@ A list of awesome resources about HyperDbg (non-English languages).
 
 ## Spanish
 - [Hyperdbg instalacion y primeros pasos](https://www.youtube.com/watch?v=BBp5kGL1qoI)
+- [HYPERDBG PRIMEROS PASOS Y NUEVOS FEATURES](https://www.youtube.com/watch?v=rmkEW5IVDyg)
