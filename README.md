@@ -52,6 +52,7 @@ A list of awesome resources about HyperDbg.
 - [view system state (registers, memory, variables)](https://docs.hyperdbg.org/commands/scripting-language/examples/view-system-state)
 - [change system state (registers, memory, variables)](https://docs.hyperdbg.org/commands/scripting-language/examples/change-system-state-registers-memory-variables)
 - [trace function calls](https://docs.hyperdbg.org/commands/scripting-language/examples/trace-function-calls)
+- [pause the debugger conditionally](https://docs.hyperdbg.org/commands/scripting-language/examples/pause-the-debugger-conditionally)
 - [conditional breakpoints and events](https://docs.hyperdbg.org/commands/scripting-language/examples/conditional-breakpoints-and-events)
 - [patch the normal sequence of execution](https://docs.hyperdbg.org/commands/scripting-language/examples/patch-the-normal-sequence-of-execution)
 - [access to a shared variable from different cores](https://docs.hyperdbg.org/commands/scripting-language/examples/access-to-a-shared-variable-from-different-cores)
