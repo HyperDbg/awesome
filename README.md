@@ -9,6 +9,7 @@ A list of awesome resources about HyperDbg.
 
 ### Papers
 - [HyperDbg: Reinventing Hardware-Assisted Debugging (CCS'22)](https://dl.acm.org/doi/abs/10.1145/3548606.3560649) [[arXiv](https://arxiv.org/abs/2207.05676)]
+- [The Reversing Machine: Reconstructing Memory Assumptions](https://arxiv.org/pdf/2405.00298) [[arXiv](https://arxiv.org/abs/2405.00298)]
 - [Kernel Debugger Design In HyperDbg](https://research.hyperdbg.org/debugger/kernel-debugger-design.html)
 - [VM-exit Transparency In HyperDbg](https://research.hyperdbg.org/debugger/transparency.html)
 - [Chasing Bugs with/in Hypervisors](https://research.hyperdbg.org/debugger/chasing-bugs.html)
