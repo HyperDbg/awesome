@@ -79,3 +79,4 @@ A list of awesome resources about HyperDbg.
 A list of awesome resources about HyperDbg (non-English languages).
 - [Persian](https://github.com/HyperDbg/awesome/blob/master/Persian.md)
 - [Spanish](https://github.com/HyperDbg/awesome/blob/master/Spanish.md)
+- [Korean](https://github.com/HyperDbg/awesome/blob/master/Korean.md)
