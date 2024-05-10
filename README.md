@@ -3,7 +3,7 @@
 A list of awesome resources about HyperDbg.
 
 ## Tutorials
-- [OpenSecurityTraining2's Reversing with HyperDbg (Dbg3301)](https://ost2.fyi/Dbg3301)
+- [OpenSecurityTraining2's Reversing with HyperDbg (Dbg3301)](https://ost2.fyi/Dbg3301) [[YouTube](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kF1f143wlw8ujlH2A45nZY)]
 
 ## Articles
 
