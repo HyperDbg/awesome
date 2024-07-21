@@ -68,12 +68,12 @@ A list of awesome resources about HyperDbg.
 ## Videos
 - [CPS4150 Computer Architecture Final Seminar Presentation HyperDbg](https://www.youtube.com/watch?v=WHkXdv3tQvA)
 
-
 ## Presentations
 - [Slides and Source codes of OpenSecurityTraining2's Reversing with HyperDbg (Dbg3301) tutorial](https://gitlab.com/opensecuritytraining/dbg3001_hyperdbg_slides_and_files)
 - [Slides for IPM Presentation (2022) - HyperDbg Debugger](https://github.com/HyperDbg/slides/tree/main/2022/IPM)
 - [Slides for 29th ACM Conference on Computer and Communications Security (CCS'22) - HyperDbg](https://github.com/HyperDbg/slides/tree/main/2022/CCS2022)
 - [Slides for Zer0Con 2023 - Chasing Bugs with/in Hypervisors](https://github.com/HyperDbg/slides/tree/main/2023/Zer0Con2023)
+- [hwdbg: Debugging Hardware Like Software](https://github.com/HyperDbg/slides/tree/main/2024/hwdbg)
 
 # Non-English resources
 
