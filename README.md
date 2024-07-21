@@ -13,6 +13,7 @@ A list of awesome resources about HyperDbg.
 - [Kernel Debugger Design In HyperDbg](https://research.hyperdbg.org/debugger/kernel-debugger-design.html)
 - [VM-exit Transparency In HyperDbg](https://research.hyperdbg.org/debugger/transparency.html)
 - [Chasing Bugs with/in Hypervisors](https://research.hyperdbg.org/debugger/chasing-bugs.html)
+- [HyperDtct: Hypervisor-Based Ransomware Detection](https://files.ifi.uzh.ch/CSG/staff/vonderassen/extern/theses/ba-luethi.pdf) [[GitHub](https://github.com/Cyber-Tracer/HyperDtct)]
 
 ### Blog Posts
 - [HyperDbg’s One Thousand and One Nights](https://rayanfam.com/topics/hyperdbg-one-thousand-and-one-nights)
