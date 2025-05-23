@@ -75,6 +75,8 @@ A list of awesome resources about HyperDbg.
 - [Slides for 29th ACM Conference on Computer and Communications Security (CCS'22) - HyperDbg](https://github.com/HyperDbg/slides/tree/main/2022/CCS2022)
 - [Slides for Zer0Con 2023 - Chasing Bugs with/in Hypervisors](https://github.com/HyperDbg/slides/tree/main/2023/Zer0Con2023)
 - [hwdbg: Debugging Hardware Like Software](https://github.com/HyperDbg/slides/tree/main/2024/hwdbg)
+- [Slides for EuroSec 2025 - Debugging Hardware Like Software](https://github.com/HyperDbg/slides/tree/main/2025/EuroSec2025)
+
 
 # Non-English resources
 
