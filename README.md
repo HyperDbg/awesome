@@ -15,6 +15,7 @@ A list of awesome resources about HyperDbg.
 - [Chasing Bugs with/in Hypervisors](https://research.hyperdbg.org/debugger/chasing-bugs)
 - [Gaining Insights: Exploring Fresh Reverse Engineering Techniques](https://research.hyperdbg.org/debugger/gaining-insights)
 - [HyperDtct: Hypervisor-Based Ransomware Detection](https://files.ifi.uzh.ch/CSG/staff/vonderassen/extern/theses/ba-luethi.pdf) [[GitHub](https://github.com/Cyber-Tracer/HyperDtct)]
+- [Countering Anti-Debugging Techniques: Enhancing Transparency in Nested Virtualization using HyperDbg](https://www.vusec.net/wp-content/uploads/2025/08/debt25-ruytenberg-karvandi-hypervisor-transparency.pdf)
 
 ### Blog Posts
 - [HyperDbg’s One Thousand and One Nights](https://rayanfam.com/topics/hyperdbg-one-thousand-and-one-nights)
@@ -70,6 +71,8 @@ A list of awesome resources about HyperDbg.
 - [CPS4150 Computer Architecture Final Seminar Presentation HyperDbg](https://www.youtube.com/watch?v=WHkXdv3tQvA)
 
 ## Presentations
+
+### HyperDbg Demonstration Slides
 - [Slides and Source codes of OpenSecurityTraining2's Reversing with HyperDbg (Dbg3301) tutorial](https://gitlab.com/opensecuritytraining/dbg3001_hyperdbg_slides_and_files)
 - [Slides for IPM Presentation (2022) - HyperDbg Debugger](https://github.com/HyperDbg/slides/tree/main/2022/IPM)
 - [Slides for 29th ACM Conference on Computer and Communications Security (CCS'22) - HyperDbg](https://github.com/HyperDbg/slides/tree/main/2022/CCS2022)
@@ -77,6 +80,10 @@ A list of awesome resources about HyperDbg.
 - [Slides for hwdbg: Debugging Hardware Like Software](https://github.com/HyperDbg/slides/tree/main/2024/hwdbg)
 - [Slides for EuroSec 2025 - Debugging Hardware Like Software](https://github.com/HyperDbg/slides/tree/main/2025/EuroSec2025)
 - [Slides for DEBT 2025 - Countering Anti-Debugging Techniques: Enhancing Transparency in Nested Virtualization using HyperDbg](https://github.com/HyperDbg/slides/tree/main/2025/DEBT2025)
+
+### Conference Presentation References
+- [Playing Dirty Without Cheating - Getting Banned for Fun and No Profit](https://game-research.github.io/presentations/2025-08-10-defcon33-playing-dirty-without-cheating.pdf)
+- [Malware detection… with type-1 hypervisors](https://github.com/0x4ndr3/Presentations/blob/main/Sikkerhetsfestivalen%202025/slides.pdf)
 
 # Non-English resources
 
