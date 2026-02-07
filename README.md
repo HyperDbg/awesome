@@ -69,6 +69,8 @@ A list of awesome resources about HyperDbg.
 
 ## Videos
 - [CPS4150 Computer Architecture Final Seminar Presentation HyperDbg](https://www.youtube.com/watch?v=WHkXdv3tQvA)
+- [FOSDEM'26 - Invisible Hypervisors: Stealthy Malware Analysis with HyperDbg](https://fosdem.org/2026/schedule/event/CDPRDX-invisible_hypervisors_debugging_with_hyperdbg/)
+- [FOSDEM'26 - MBEC, SLAT, and HyperDbg: Hypervisor-Based Kernel- and User-Mode Debugging](https://fosdem.org/2026/schedule/event/APB9WC-mbec_slat_and_hyperdbg_hypervisor-based_kernel-_and_user-mode_debugging/)
 
 ## Presentations
 
