@@ -79,9 +79,13 @@ A list of awesome resources about HyperDbg.
 - [Slides for IPM Presentation (2022) - HyperDbg Debugger](https://github.com/HyperDbg/slides/tree/main/2022/IPM)
 - [Slides for 29th ACM Conference on Computer and Communications Security (CCS'22) - HyperDbg](https://github.com/HyperDbg/slides/tree/main/2022/CCS2022)
 - [Slides for Zer0Con 2023 - Chasing Bugs with/in Hypervisors](https://github.com/HyperDbg/slides/tree/main/2023/Zer0Con2023)
+- [Slides for OpenSecurityTraining2 - Reversing with HyperDbg (Dbg3301)](https://gitlab.com/opensecuritytraining/dbg3301_hyperdbg_slides_and_files)
 - [Slides for hwdbg: Debugging Hardware Like Software](https://github.com/HyperDbg/slides/tree/main/2024/hwdbg)
 - [Slides for EuroSec 2025 - Debugging Hardware Like Software](https://github.com/HyperDbg/slides/tree/main/2025/EuroSec2025)
 - [Slides for DEBT 2025 - Countering Anti-Debugging Techniques: Enhancing Transparency in Nested Virtualization using HyperDbg](https://github.com/HyperDbg/slides/tree/main/2025/DEBT2025)
+- [Slides for FOSDEM 2026 - Invisible Hypervisors: Stealthy Malware Analysis with HyperDbg (Security track)](https://github.com/HyperDbg/slides/blob/main/2026/FOSDEM2026/security-track.pdf)
+- [Slides for FOSDEM 2026 - MBEC, SLAT, and HyperDbg: Hypervisor-Based Kernel- and User-Mode Debugging (Virtualization track)](https://github.com/HyperDbg/slides/blob/main/2026/FOSDEM2026/virtualization-track.pdf)
+
 
 ### Conference Presentation References
 - [Playing Dirty Without Cheating - Getting Banned for Fun and No Profit](https://game-research.github.io/presentations/2025-08-10-defcon33-playing-dirty-without-cheating.pdf)
